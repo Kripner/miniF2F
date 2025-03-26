@@ -14,6 +14,7 @@ package minif2f where
 lean_lib MiniF2F where
   globs := #[.submodules `MiniF2F]
 
-require "leanprover-community" / "mathlib" @ "git#v4.14.0"
+require "leanprover-community" / "mathlib"
 
-require "google-deepmind" / "formal_conjectures" @ "git#v4.14.0"
+require "google-deepmind" / "formal_conjectures"
+
