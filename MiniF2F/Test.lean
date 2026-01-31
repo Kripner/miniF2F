@@ -1269,7 +1269,7 @@ theorem algebra_apbpceq2_abpbcpcaeq1_aleq1on3anbleq1ancleq4on3 (a b c : ℝ) (h�
 
 /-- Determine the remainder of 194 (mod 11). -/
 theorem mathd_numbertheory_66 : 194 % 11 = 7 :=
-  rfl
+  sorry
 
 /-- How many integer values satisfy $|x|< 3\pi$?
 
@@ -1435,7 +1435,7 @@ theorem amc12_2000_p20 (x y z : ℝ) (h₀ : 0 < x ∧ 0 < y ∧ 0 < z) (h₁ : 
 
 /-- Evaluate $\left(\frac{i}{2}\right)^2$. -/
 theorem mathd_algebra_302 : (Complex.I / 2) ^ 2 = -(1 / 4) := by
-  norm_num [div_pow]
+  sorry
 
 /--
 Let $f(x) = |x - p| + |x - 15| + |x - p - 15|$, where $0 < p < 15$.  Determine the minimum value taken by $f(x)$ for $x$ in the interval $p \le x \le 15$. -/
