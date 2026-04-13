@@ -1,3 +1,3 @@
 import Mathlib
-import FormalConjectures.ForMathlib.Analysis.SpecialFunctions.NthRoot
+import FormalConjecturesForMathlib.Analysis.SpecialFunctions.NthRoot
 import FormalConjectures.Util.Answer
