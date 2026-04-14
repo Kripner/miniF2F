@@ -1268,7 +1268,7 @@ theorem algebra_apbpceq2_abpbcpcaeq1_aleq1on3anbleq1ancleq4on3 (a b c : ‚Ñù) (h‚
   sorry
 
 /-- Determine the remainder of 194 (mod 11). -/
-theorem mathd_numbertheory_66 : 194 % 11 = 7 :=
+theorem mathd_numbertheory_66 : 194 % 11 = 7 := by
   rfl
 
 /-- How many integer values satisfy $|x|< 3\pi$?
